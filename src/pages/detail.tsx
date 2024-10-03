@@ -64,8 +64,8 @@ const ImageDetail = () => {
 	};
 
 	return (
-		<div className='container flex justify-center w-full mt-[100px] py-10'>
-			<div className='flex flex-col md:flex-row gap-10'>
+		<div className='container flex justify-center mx-auto w-full mt-[100px] py-10'>
+			<div className='flex mx-2 flex-col md:flex-row gap-10'>
 				<div
 					className='relative'
 					onMouseMove={handleMouseMove}
@@ -77,6 +77,9 @@ const ImageDetail = () => {
 						alt={imageTitle || 'Image'}
 						width={450}
 						height={250}
+						layout='responsive'
+						objectFit='cover'
+						objectPosition='center'
 						className='rounded-lg shadow-lg'
 					/>
 					<div

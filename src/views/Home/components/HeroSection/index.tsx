@@ -29,7 +29,7 @@ const HeroSection = () => {
 
 	return (
 		<div className='relative flex justify-center mt-[100px] mx-auto w-full'>
-			<div className='w-[75%]'>
+			<div className='w-[95%] lg:w-[75%]'>
 				<Swiper
 					spaceBetween={30}
 					centeredSlides={true}

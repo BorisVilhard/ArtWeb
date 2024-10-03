@@ -57,6 +57,7 @@ const MobileMenu = () => {
 									router.pathname === navLink.url ? 'font-medium' : ''
 								} relative block px-10 tracking-[0.105em] py-3 hover:bg-black/5`}
 								href={navLink.url}
+								onClick={() => setIsOpenMobileMenu(false)}
 								key={i}
 							>
 								{navLink.label}
