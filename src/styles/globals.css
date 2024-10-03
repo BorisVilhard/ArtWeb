@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  body {
+    @apply font-roboto-slub;
+  }
+  .__container {
+    @apply max-w-[calc(1170px+40px)] mx-auto px-5;
+  }
+
+  .__btn {
+    @apply h-12 lg:h-[57px] rounded-full bg-[#4379F5] hover:scale-[1.05] duration-200 text-white font-roboto font-medium px-8 lg:px-[39px] outline-none;
+  }
+}
+
+#heroSliderPagination span,
+#recipeCardPagination span {
+  @apply block max-md:scale-[0.8] w-[22px] h-[22px] rounded-full border-2 border-[#7C7C7C] cursor-pointer relative;
+}
+
+#heroSliderPagination span::before,
+#recipeCardPagination span::before {
+  content: "";
+  @apply absolute w-[11px] h-[11px] duration-200 rounded-full bg-[#9B20AF] top-1/2 left-1/2 -translate-y-1/2 -translate-x-1/2 scale-0;
+}
+
+#heroSliderPagination
+  span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  @apply border-[#9B20AF] before:scale-100;
+}
+
+#recipeCardPagination span {
+  @apply w-[14px] h-[14px] border-white border;
+}
+#recipeCardPagination span::before {
+  @apply w-[7.5px] h-[7.5px];
+}
+
+#recipeCardPagination
+  span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  @apply border-white before:scale-100 before:bg-white;
+}
