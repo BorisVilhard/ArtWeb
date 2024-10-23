@@ -12,14 +12,24 @@ const picture = [
 		tags: ['90x54cm', 'Concrete', 'Iron'],
 	},
 	{
-		title: 'Horse',
-		url: 'statueHero2.jpg',
-		tags: ['177x67cm', 'Iron'],
+		url: 'painting1.jpg',
+		title: 'Girl',
+		tags: ['150x150cm', 'Acrylic', 'Valid'],
 	},
 	{
-		title: 'Creators',
-		url: 'statueHero3.jpg',
-		tags: ['77.5x15.5cm', 'Iron', 'Wood'],
+		url: 'painting2.jpg',
+		title: 'Egg',
+		tags: ['150x150cm', 'Acrylic', 'Valid'],
+	},
+	{
+		url: 'painting3.jpg',
+		title: 'Bukefalo',
+		tags: ['110x145cm', 'Acrylic', 'Valid'],
+	},
+	{
+		url: 'painting4.jpg',
+		title: 'Swans',
+		tags: ['150x150cm', 'Acrylic', 'Valid'],
 	},
 ];
 

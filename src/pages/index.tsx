@@ -1,11 +1,11 @@
-import Home from "@/views/Home";
+import Home from '@/views/Home';
 
 const HomePage = () => {
-  return (
-    <>
-      <Home />
-    </>
-  );
+	return (
+		<>
+			<Home />
+		</>
+	);
 };
 
 export default HomePage;

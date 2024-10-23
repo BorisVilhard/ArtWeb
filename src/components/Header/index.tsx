@@ -7,6 +7,7 @@ const Header = () => {
 	const navLinks = [
 		{ url: '/', label: 'Home' },
 		{ url: '/market', label: 'Market' },
+		{ url: '/biography', label: 'Biography' },
 	];
 	return (
 		<header className='fixed top-0 left-0 w-full z-50 py-4 lg:py-[21px] bg-white shadow-[0px_8px_40px_rgba(0,0,0,0.07)]'>

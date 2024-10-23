@@ -18,7 +18,7 @@ const Footer = () => {
 						</h3>
 						<div className='text-[#CECECE] font-roboto'>
 							<p>Email: vilart@centrum.sk</p>
-							<p>PHone: (+421) 911 118 668</p>
+							<p>Phone: (+421) 911 118 668</p>
 						</div>
 					</div>
 
