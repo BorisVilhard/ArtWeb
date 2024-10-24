@@ -15,6 +15,7 @@ const MobileMenu = () => {
 	const navLinks = [
 		{ url: '/', label: 'Home' },
 		{ url: '/market', label: 'Market' },
+		{ url: '/biography', label: 'Biography' },
 	];
 
 	return (

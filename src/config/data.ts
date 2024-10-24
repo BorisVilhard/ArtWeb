@@ -31,16 +31,6 @@ export const images: Images = [
 		tags: ['150x150cm', 'Acrylic', 'Valid'],
 	},
 	{
-		url: '/img/pictures/painting5.jpg',
-		title: 'Statue',
-		tags: ['Iron'],
-	},
-	{
-		url: '/img/pictures/painting6.jpg',
-		title: 'Abstract',
-		tags: ['Art', 'Acrylic', 'Valid'],
-	},
-	{
 		url: '/img/pictures/painting7.jpg',
 		title: 'Africa',
 		tags: ['125x140cm', 'Acrylic', 'Valid'],
@@ -52,42 +42,32 @@ export const images: Images = [
 	},
 	{
 		url: '/img/pictures/painting10.jpg',
-		title: 'Horse',
+		title: 'Moment',
 		tags: ['130x40cm', 'Acrylic', 'Valid'],
 	},
 	{
 		url: '/img/pictures/painting11.jpg',
-		title: 'Horses',
+		title: 'White Horse',
 		tags: ['150x200cm', 'Acrylic', 'Valid'],
 	},
 	{
-		url: '/img/pictures/statue4.jpg',
-		title: 'Statue',
-		tags: ['Iron', 'Wood', 'Valid'],
-	},
-	{
-		url: '/img/pictures/statue5.jpg',
-		title: 'Horse',
-		tags: ['Iron'],
-	},
-	{
-		url: '/img/pictures/statue7.jpg',
-		title: 'Statue',
-		tags: ['Iron'],
-	},
-	{
-		url: '/img/pictures/statue8.jpg',
-		title: 'Horse',
-		tags: ['Iron'],
-	},
-	{
 		url: '/img/pictures/statue10.jpg',
-		title: 'Horse',
+		title: 'Horse (1.)',
 		tags: ['177x67cm', 'Iron', '163cm length'],
 	},
 	{
 		url: '/img/pictures/statue11.jpg',
-		title: 'Horse',
+		title: 'Horse (2.)',
+		tags: ['Iron'],
+	},
+	{
+		url: '/img/pictures/statue14.jpg',
+		title: 'horse (3.)',
+		tags: ['172,5x43cm', 'Iron', '120.5cm length'],
+	},
+	{
+		url: '/img/pictures/statue16.jpg',
+		title: 'Horse (4.)',
 		tags: ['Iron'],
 	},
 	{
@@ -100,21 +80,7 @@ export const images: Images = [
 		title: 'Acrobat',
 		tags: ['Concrete', 'Wood'],
 	},
-	{
-		url: '/img/pictures/statue14.jpg',
-		title: 'Horse',
-		tags: ['172,5x43cm', 'Iron', '120.5cm length'],
-	},
-	{
-		url: '/img/pictures/statue15.jpg',
-		title: 'Object',
-		tags: ['60x180cm', 'Iron'],
-	},
-	{
-		url: '/img/pictures/statue16.jpg',
-		title: 'Horse',
-		tags: ['Iron'],
-	},
+
 	{
 		url: '/img/pictures/statueHero.jpg',
 		title: 'Abstract',
@@ -124,6 +90,11 @@ export const images: Images = [
 		url: '/img/pictures/statueHero3.jpg',
 		title: 'Creators',
 		tags: ['77.5x15.5cm', 'Concrete', 'Wood'],
+	},
+	{
+		url: '/img/pictures/statue17.jpg',
+		title: 'Black',
+		tags: ['178x60cm', 'Colored Iron'],
 	},
 ];
 

@@ -13,7 +13,7 @@ const Header = () => {
 		<header className='fixed top-0 left-0 w-full z-50 py-4 lg:py-[21px] bg-white shadow-[0px_8px_40px_rgba(0,0,0,0.07)]'>
 			<div className='__container'>
 				<div className='flex justify-between items-center'>
-					<h1 className='text-[30px]'>Vilart</h1>
+					<h1 className='text-[30px]'>Vilhard</h1>
 
 					<div className='flex items-center gap-3.5 lg:gap-5 cursor-pointer'>
 						<nav className='flex items-center gap-[55px] font-roboto mr-10 max-lg:hidden'>
