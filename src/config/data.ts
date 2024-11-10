@@ -16,11 +16,6 @@ export const images: Images = [
 		tags: ['150x150cm', 'Acrylic', 'Valid'],
 	},
 	{
-		url: '/img/pictures/painting2.jpg',
-		title: 'Egg',
-		tags: ['150x150cm', 'Acrylic', 'Valid'],
-	},
-	{
 		url: '/img/pictures/painting3.jpg',
 		title: 'Bukefalo',
 		tags: ['110x145cm', 'Acrylic', 'Valid'],
@@ -39,11 +34,6 @@ export const images: Images = [
 		url: '/img/pictures/painting9.jpg',
 		title: 'Together',
 		tags: ['140x140cm', 'Acrylic', 'Valid'],
-	},
-	{
-		url: '/img/pictures/painting10.jpg',
-		title: 'Moment',
-		tags: ['130x40cm', 'Acrylic', 'Valid'],
 	},
 	{
 		url: '/img/pictures/painting11.jpg',
@@ -71,7 +61,7 @@ export const images: Images = [
 		tags: ['Iron'],
 	},
 	{
-		url: '/img/pictures/statue12.jpg',
+		url: '/img/pictures/goat2.png',
 		title: 'Goat',
 		tags: ['Concrete', 'Iron'],
 	},
@@ -80,7 +70,6 @@ export const images: Images = [
 		title: 'Acrobat',
 		tags: ['Concrete', 'Wood'],
 	},
-
 	{
 		url: '/img/pictures/statueHero.jpg',
 		title: 'Abstract',
@@ -95,6 +84,11 @@ export const images: Images = [
 		url: '/img/pictures/statue17.jpg',
 		title: 'Black',
 		tags: ['178x60cm', 'Colored Iron'],
+	},
+	{
+		url: '/img/pictures/idk2.jpg',
+		title: 'Energies',
+		tags: ['80x14cm', '80cm length', 'Colored Iron', 'Concrete'],
 	},
 ];
 
