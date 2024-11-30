@@ -76,11 +76,6 @@ export const images: Images = [
 		tags: ['94x54cm', 'Iron', 'Concrete'],
 	},
 	{
-		url: '/img/pictures/statueHero3.jpg',
-		title: 'Creators',
-		tags: ['77.5x15.5cm', 'Concrete', 'Wood'],
-	},
-	{
 		url: '/img/pictures/statue17.jpg',
 		title: 'Black',
 		tags: ['178x60cm', 'Colored Iron'],
