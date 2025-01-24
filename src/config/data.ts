@@ -16,6 +16,11 @@ export const images: Images = [
 		tags: ['125x140cm', 'Acrylic', 'Valid'],
 	},
 	{
+		url: '/img/paintings/22.jpg',
+		title: 'Abstract',
+		tags: ['120x150cm', 'Acrylic', 'Valid'],
+	},
+	{
 		url: '/img/paintings/Kone.jpg',
 		title: 'Horses',
 		tags: ['200x150cm', 'Acrylic', 'Valid'],
