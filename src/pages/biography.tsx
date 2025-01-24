@@ -56,7 +56,7 @@ const Bio = () => {
 								</a>
 							</div>
 
-							<h1 className='text-[13px] text-gray-600'>vilart@centrum.sk</h1>
+							<h1 className='text-[13px] text-gray-600'>vilhard@centrum.sk</h1>
 						</div>
 					</div>
 				</div>
