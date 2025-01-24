@@ -12,24 +12,24 @@ const picture = [
 		tags: ['90x54cm', 'Concrete', 'Iron'],
 	},
 	{
-		url: 'painting1.jpg',
-		title: 'Girl',
-		tags: ['150x150cm', 'Acrylic', 'Valid'],
+		url: 'Afrika2.jpg',
+		title: 'Africa',
+		tags: ['125x140cm', 'Acrylic', 'Valid'],
 	},
 	{
-		url: 'painting2.jpg',
-		title: 'Egg',
-		tags: ['150x150cm', 'Acrylic', 'Valid'],
+		url: 'Kone.jpg',
+		title: 'Horses',
+		tags: ['200x150cm', 'Acrylic', 'Valid'],
 	},
 	{
-		url: 'painting3.jpg',
-		title: 'Bukefalo',
-		tags: ['110x145cm', 'Acrylic', 'Valid'],
+		url: 'Nebo.jpg',
+		title: 'Heaven',
+		tags: ['110x130cm', 'Acrylic', 'Valid'],
 	},
 	{
-		url: 'painting4.jpg',
-		title: 'Swans',
-		tags: ['150x150cm', 'Acrylic', 'Valid'],
+		url: 'dance.jpg',
+		title: 'Dance in Rain',
+		tags: ['185x150 cm', 'Acrylic', 'Valid'],
 	},
 ];
 
@@ -56,7 +56,7 @@ const HeroSection = () => {
 						<SwiperSlide key={i}>
 							<div
 								style={{
-									backgroundImage: `url('/img/pictures/${pic.url}')`,
+									backgroundImage: `url('/img/paintings/${pic.url}')`,
 								}}
 								className='w-full lg:w-full  h-[70vh] rounded-[20px] bg-full bg-no-repeat bg-center bg-cover'
 							></div>

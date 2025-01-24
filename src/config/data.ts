@@ -11,34 +11,24 @@ export type Images = Image[];
 // Export the images array with proper type
 export const images: Images = [
 	{
-		url: '/img/pictures/painting1.jpg',
-		title: 'Girl',
-		tags: ['150x150cm', 'Acrylic', 'Valid'],
-	},
-	{
-		url: '/img/pictures/painting3.jpg',
-		title: 'Bukefalo',
-		tags: ['110x145cm', 'Acrylic', 'Valid'],
-	},
-	{
-		url: '/img/pictures/painting4.jpg',
-		title: 'Swans',
-		tags: ['150x150cm', 'Acrylic', 'Valid'],
-	},
-	{
-		url: '/img/pictures/painting7.jpg',
+		url: '/img/paintings/Afrika2.jpg',
 		title: 'Africa',
 		tags: ['125x140cm', 'Acrylic', 'Valid'],
 	},
 	{
-		url: '/img/pictures/painting9.jpg',
-		title: 'Together',
-		tags: ['140x140cm', 'Acrylic', 'Valid'],
+		url: '/img/paintings/Kone.jpg',
+		title: 'Horses',
+		tags: ['200x150cm', 'Acrylic', 'Valid'],
 	},
 	{
-		url: '/img/pictures/painting11.jpg',
-		title: 'White Horse',
-		tags: ['150x200cm', 'Acrylic', 'Valid'],
+		url: '/img/paintings/Nebo.jpg',
+		title: 'Heaven',
+		tags: ['110x130cm', 'Acrylic', 'Valid'],
+	},
+	{
+		url: '/img/paintings/dance.jpg',
+		title: 'Dance in Rain',
+		tags: ['185x150 cm', 'Acrylic', 'Valid'],
 	},
 	{
 		url: '/img/pictures/statue10.jpg',
