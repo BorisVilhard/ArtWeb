@@ -4,7 +4,7 @@ import TwitterIcon from '../Icons/TwitterIcon';
 
 const social = [
 	{ icon: <FacebookIcon />, href: 'https://www.facebook.com/vilart' },
-	{ icon: <InstagramIcon />, href: 'https://www.instagram.com/j.vilhard/' },
+	{ icon: <InstagramIcon />, href: 'https://www.instagram.com/jozef.vilhard/' },
 ];
 
 const Footer = () => {

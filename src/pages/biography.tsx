@@ -49,7 +49,7 @@ const Bio = () => {
 						<div className='flex items-center gap-5 mt-[30px]'>
 							<div className='flex items-center gap-x-3 lg:gap-x-6'>
 								<a
-									href='https://www.instagram.com/j.vilhard/'
+									href='https://www.instagram.com/jozef.vilhard/'
 									className='flex items-center justify-center bg-[#464646] h-[34px] rounded-full aspect-square hover:bg-[#4379F5] duration-300'
 								>
 									<InstagramIcon />
